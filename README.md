@@ -1,5 +1,7 @@
 # Buscart
-De estar hasta los huevos de buscar artículos por internet, o de tener que llevarse los putos códigos en una mochila cada día, surgió Buscart :)
+De estar cansado de buscar los artículos por internet, o de tener que llevarse 15 códigos de distintas ramas de derecho en la mochila cada día, surgió Buscart :)
+
+![image](https://github.com/oscaarnu/buscart/assets/34103212/2b1af410-e6fc-4d0f-94d4-a0046e9704a5)
 
 # Cómo descargar
 ## En Windows
@@ -9,4 +11,5 @@ En la esquina superior derecha encontrarás un botón verde con el texto "Code".
 Por ahora Buscart no soporta MacOS :(
 
 # Contacto
-En caso de cualquier bug, error, problema técnico, o incluso propuestas para mejorar o añadir funciones que creas que puedan ser útiles, puedes mandarme un correo a oscarnavarro2001@gmail.com.
+En caso de error o propuesta de mejora puedes contactar conmigo con las vías de contacto que figuran en mi perfil.
+Gracias :)
